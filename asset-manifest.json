@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d8ad22b.chunk.css",
+    "main.js": "/static/js/main.4946d4d5.chunk.js",
+    "main.js.map": "/static/js/main.4946d4d5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dac4871e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dac4871e.js.map",
+    "static/js/2.6e563694.chunk.js": "/static/js/2.6e563694.chunk.js",
+    "static/js/2.6e563694.chunk.js.map": "/static/js/2.6e563694.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6d8ad22b.chunk.css.map": "/static/css/main.6d8ad22b.chunk.css.map",
+    "static/js/2.6e563694.chunk.js.LICENSE.txt": "/static/js/2.6e563694.chunk.js.LICENSE.txt",
+    "static/media/011-wind.f3e72bae.svg": "/static/media/011-wind.f3e72bae.svg",
+    "static/media/032-drop.6309a878.svg": "/static/media/032-drop.6309a878.svg",
+    "static/media/033-barometer.bc4f05f0.svg": "/static/media/033-barometer.bc4f05f0.svg",
+    "static/media/042-cyclone.5a9493d8.svg": "/static/media/042-cyclone.5a9493d8.svg",
+    "static/media/044-gps.becbaa60.svg": "/static/media/044-gps.becbaa60.svg",
+    "static/media/045-thermometer.f7a90ca7.svg": "/static/media/045-thermometer.f7a90ca7.svg",
+    "static/media/046-thermometer.bb48d97e.svg": "/static/media/046-thermometer.bb48d97e.svg",
+    "static/media/BluewithBrownRopeTravelLogo.11f6febf.png": "/static/media/BluewithBrownRopeTravelLogo.11f6febf.png",
+    "static/media/Dual Ring-1s-200px.9c872c72.svg": "/static/media/Dual Ring-1s-200px.9c872c72.svg",
+    "static/media/close.3705f3ed.svg": "/static/media/close.3705f3ed.svg",
+    "static/media/DashBoard.css": "/static/media/ev7xudy24rt11.7d624991.jpg",
+    "static/media/menu (1).d37a066f.svg": "/static/media/menu (1).d37a066f.svg",
+    "static/media/Geolocation.css": "/static/media/pexels-eberhard-grossgasteiger-844297.d66ecb1e.jpg",
+    "static/media/undraw_Country_side_k696.8acfca36.svg": "/static/media/undraw_Country_side_k696.8acfca36.svg",
+    "static/media/undraw_Location_search_re_ttoj (1).05ed6290.svg": "/static/media/undraw_Location_search_re_ttoj (1).05ed6290.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dac4871e.js",
+    "static/js/2.6e563694.chunk.js",
+    "static/css/main.6d8ad22b.chunk.css",
+    "static/js/main.4946d4d5.chunk.js"
+  ]
+}
